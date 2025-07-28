@@ -1,5 +1,6 @@
 ---
 date: 28-07-2025
+title: Why I'm making a blog
 ---
 
 # Why I'm Making a blog
