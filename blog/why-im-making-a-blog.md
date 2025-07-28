@@ -5,7 +5,7 @@ title: Why I'm making a blog
 
 # Why I'm Making a blog
 
-In a world where everyone and their grandmother have a blog, why should I a *nobody* make blog?
+In a world where everyone and their grandmother has a blog, why should I a *nobody* make blog?
 
 Well in simple terms, because I can and maybe someone would like it.
 
