@@ -23,4 +23,4 @@ Buut, we have to remember not to prematurely optimize, for example there has bee
 
 Sure ++i is *technically* faster in some circumstances, but really are you going to tell me the performance problems that are plaguing you stems for **this??**
 
-In short, optimise not before maturity.
+In short, *optimize* not before maturity.
