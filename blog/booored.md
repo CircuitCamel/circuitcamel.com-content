@@ -1,6 +1,6 @@
 ---
 date: 21-10-2025
-title: booored
+title: Booored
 ---
 
 # I'm bored
